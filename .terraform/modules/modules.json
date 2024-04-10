@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"auth_division","Source":"./modules/auth_division","Dir":""}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"auth_division","Source":"./modules/division/auth_division","Dir":""}]}
