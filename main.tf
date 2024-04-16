@@ -3,8 +3,3 @@ module "division" {
   source = "./modules/division"   
 }
 
-
-# Module for genesyscloud export
-module "genesyscloudexport" {
-  source = "./modules/export"   
-}
